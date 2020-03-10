@@ -3,7 +3,7 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-FIXME: home page introduction
+This lesson was created to help people learn R and some other programming tools while learning how to create a website.
 
 <!-- this is an html comment -->
 
@@ -11,7 +11,7 @@ FIXME: home page introduction
 
 > ## Prerequisites
 >
-> FIXME
+> Motivation and some energy!
 {: .prereq}
 
 {% include links.md %}

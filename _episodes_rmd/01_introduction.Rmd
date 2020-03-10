@@ -1,0 +1,24 @@
+---
+source: Rmd
+title: "1. intro"
+teaching: 5
+exercises: 5
+questions:
+- "What is the Open Tree Taxonomy?"
+- "What are OTT ids?"
+- 'What does TNRS stand for?'
+objectives:
+- "Getting OTT ids for some taxa."
+- "Understanding TNRS, approximate matching and its sensitivity."
+# - "Finding the utility of taxonomic contexts"
+# - "Discovering functions to handle a 'match_names' object."
+keypoints:
+- "OTT ids are the Open Tree of Life Taxonomy handlers; they identify taxa."
+- "You can go from a scientific name to an OTT id with TNRS matching."
+- "You cannot go from a common name to OTT id with the Open Tree of Life tools."
+---
+```{r, eval = TRUE, echo = FALSE}
+source("../bin/chunk-options.R")
+```
+<br/>
+<br/>

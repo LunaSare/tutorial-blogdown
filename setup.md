@@ -21,11 +21,11 @@ When in doubt, follow the code chunk below.
 **Hint**
 
 
-If you do not want to load the packages, you can call functions specifying their package using two colons and the syntax `package_name::function_name()`.
+If you do not want to load the packages you can call functions by specifying their package followed by two colons and the function, like this: `package_name::function_name()`.
 
-This implies more typing, but gives more clarity to reproduce the workflow later. So we will use that syntax for this tutorial.
+This implies more typing but it gives more clarity to reproduce the workflow later. So we will use that syntax for this tutorial.
 
-An exception to this, are functions from packages that are "preloaded" --such as `library()` from the package `base`, or `install.packages()` from `utils`; these can simply be called by their name because these packages are preloaded when you open R.
+An exception to this are functions from packages that are "preloaded" --such as `library()` from the package `base`, or `install.packages()` from `utils`; these can simply be called by their name because these packages are preloaded when you open R.
 
 
 **Code chunk**
