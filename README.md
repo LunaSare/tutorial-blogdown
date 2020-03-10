@@ -2,9 +2,9 @@
 
 <!-- [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/) -->
 
-This repository contains the website for the lesson [Create a webiste using R!](https://carpentries.org/)
+This repository contains the website for the lesson [Create a webiste using R!](https://lunasare.github.io/tutorial-blogdown/index.html)
 
-It is based on [Dan Quintana's twitter thred](https://twitter.com/dsquintana/status/1139846569623281664).
+It is based on [Dan Quintana's twitter thread](https://twitter.com/dsquintana/status/1139846569623281664).
 
 <!-- ## Contributing
 
